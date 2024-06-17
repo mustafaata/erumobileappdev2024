@@ -81,20 +81,20 @@ Bu uygulama, **Erciyes Üniversitesi** bünyesinde verilen **BS 438 - Mobile App
 Kodlanmış uygulama, bir **haber okuma uygulamasıdır.**
 Projenin kodlanması sırasında kullanılan kaynaklar aşağıdaki gibi listelenebilir:
 
->Flutter 3.22.2
->Dart 3.4.3
->DevTools 2.34.3
->Visual Studio Code 1.90.0
->Android Studio Jellyfish (Sanal makine)
->newsapi.org
->https://javiercbk.github.io/json_to_dart/
->https://web.postman.co/
->cupertino_icons 1.0.6
->google_fonts 6.2.1
->flutter_spinkit 5.2.1
->http 1.2.1
->intl 0.19.0
->cached_network_image
+> Flutter 3.22.2
+> Dart 3.4.3
+> DevTools 2.34.3
+> Visual Studio Code 1.90.0
+> Android Studio Jellyfish (Sanal makine)
+> newsapi.org
+> https://javiercbk.github.io/json_to_dart/
+> https://web.postman.co/
+> cupertino_icons 1.0.6
+> google_fonts 6.2.1
+> flutter_spinkit 5.2.1
+> http 1.2.1
+> intl 0.19.0
+> cached_network_image
 
 ## Uygulama İçeriği ve Özellikleri
 
